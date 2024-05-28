@@ -1,0 +1,1 @@
+Configuring GitHub integration with codebeamer
